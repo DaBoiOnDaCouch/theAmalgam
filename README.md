@@ -13,3 +13,6 @@ Try specifying the location of the text file you want to read in its name when u
 Also try using a single forward slash (/) after typing 'C:'.
 And replacing forward slashes (/) with back slashes (\).
 If it doesn't work, try running the program in administrator mode and try again.
+
+## numGuesser
+numGuesser is also pretty self-explanatory, the CPU will think of a number from 1-10, and you have to guess it in as little attempts as possible.
